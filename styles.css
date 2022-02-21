@@ -1,0 +1,48 @@
+
+h1{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+body{
+    background-color: rgb(201, 201, 201);
+    font-family:sans-serif;
+    font-size: 11px;
+}
+.titulo{
+    background-color: white;
+    align-content: center;
+    margin-top: -3%;
+}
+.caja1, .caja2, .caja3, .caja4{
+    background-color: white;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.t1, .t2, .t3, .t4{
+    display: flex;
+    font-size: 14px;
+    height: 30px;
+    padding: 10px;
+    }
+.num1{
+    margin-left: 260px;
+    color: gray;
+}
+.num2, .num3, .num4{
+    margin-left: 230px;
+    color: gray;
+}
+.foto1, .foto2, .foto3, .foto4{
+    width: 100%;
+}
+.f1, .f2, .f3, .f4{
+    width: 100%;
+}
+.footer1, .footer2, .footer3{
+    padding: 10px;
+}
+.footer4{
+    padding: 40px;
+}
